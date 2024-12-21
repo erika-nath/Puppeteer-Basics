@@ -1,0 +1,19 @@
+{
+  "name": "puppeter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^23.10.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
